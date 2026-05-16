@@ -1,0 +1,16 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Dependencies
+lib/
+
+# Environment / secrets
+.env
+*.env
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
